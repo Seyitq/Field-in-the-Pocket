@@ -1,4 +1,4 @@
-#Field in the Pocket
+# Field in the Pocket
 ## **Field in the Pocket - (Dev Stage)**
 You can see the instant data of the field thanks to the field in your pocket project. You can see the humidity value from the light to the temperature and more. In case of any mishap, the mobile application sends you a notification.
 
